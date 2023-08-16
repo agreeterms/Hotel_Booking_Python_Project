@@ -1,6 +1,9 @@
 Hotel Booking Data Analysis
+
+
 Overview
 This project involves the analysis of hotel booking data to gain insights into various aspects of hotel reservations and cancellations. The dataset contains information about different features related to hotel bookings, including booking lead time, arrival date, stay duration, guest demographics, meal preferences, distribution channels, and more.
+
 
 Dataset Columns
 The dataset includes the following columns:
